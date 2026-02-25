@@ -93,7 +93,7 @@ const About=()=>{
 
 {/* property agents */}
 
-<div className='conatiner-agent'>
+<div className='agent'>
 <div className=''>
   <h1>Property Agents</h1>
   <p>Eirmod sed ipsum dolor sit rebum labore magna erat. Tempor ut dolore lorem kasd<br></br>
