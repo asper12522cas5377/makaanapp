@@ -16,7 +16,7 @@ import Error from "./pages/404Error";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/makaanapp">
       <Routes>
         <Route element={<Layout />}>
           <Route index element={<Home />} />
