@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/makaanapp/static/css/main.3d248d64.css",
+    "main.js": "/makaanapp/static/js/main.b7d9ff88.js",
+    "static/media/fa-solid-900.woff2": "/makaanapp/static/media/fa-solid-900.8ae0d37556ff1e685de2.woff2",
+    "static/media/about.jpg": "/makaanapp/static/media/about.34742c406645c386b134.jpg",
+    "static/media/fa-brands-400.woff2": "/makaanapp/static/media/fa-brands-400.1c5c7716b05754cb4eab.woff2",
+    "static/media/carousel-1.jpg": "/makaanapp/static/media/carousel-1.1297b20051c65b561db7.jpg",
+    "static/media/carousel-2.jpg": "/makaanapp/static/media/carousel-2.335bdd28bfa9505b60a8.jpg",
+    "static/media/property-1.jpg": "/makaanapp/static/media/property-1.5105d687794f3efbb48d.jpg",
+    "static/media/property-5.jpg": "/makaanapp/static/media/property-5.15d91ccb1c2663ef6811.jpg",
+    "static/media/property-3.jpg": "/makaanapp/static/media/property-3.540b6791e880880f0901.jpg",
+    "static/media/call-to-action.jpg": "/makaanapp/static/media/call-to-action.4e006c4961dbce1f56cf.jpg",
+    "static/media/property-4.jpg": "/makaanapp/static/media/property-4.c2163cc4df78138b1328.jpg",
+    "static/media/property-2.jpg": "/makaanapp/static/media/property-2.f6ba0266cee5815b9196.jpg",
+    "static/media/property-6.jpg": "/makaanapp/static/media/property-6.3c4084344ebdbbd08f89.jpg",
+    "static/media/fa-regular-400.woff2": "/makaanapp/static/media/fa-regular-400.6f05ca9ab7b5345dbc07.woff2",
+    "static/media/team-1.jpg": "/makaanapp/static/media/team-1.659ee7bb67b1bdfc7ccb.jpg",
+    "static/media/fa-v4compatibility.woff2": "/makaanapp/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
+    "index.html": "/makaanapp/index.html",
+    "main.3d248d64.css.map": "/makaanapp/static/css/main.3d248d64.css.map",
+    "main.b7d9ff88.js.map": "/makaanapp/static/js/main.b7d9ff88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d248d64.css",
+    "static/js/main.b7d9ff88.js"
+  ]
+}
