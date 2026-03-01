@@ -177,8 +177,6 @@ const Home = () => {
   </div>
 </div>
 
-
-
 {/* property type */}
 
       <div className="property-types-section">
@@ -189,7 +187,6 @@ const Home = () => {
           vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo.
           </p>
         </div>
-
 
         <div className="row g-4">
           {propertyData.map((item, index) => (
@@ -236,10 +233,7 @@ const Home = () => {
         </div>
       </div>
     </div>
-
-
-
-     
+  
  {/* property listing */}
 
      <div className="container py-5">
