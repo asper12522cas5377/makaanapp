@@ -1202,3 +1202,24 @@ img {
     height: 220px;
   }
 }
+
+@media (max-width: 360px) {
+  .leftside-1 h2 {
+    font-size: 27px;
+  }
+
+  .hero-content h1,
+  .agent-title {
+    font-size: 24px;
+  }
+
+  .property-card1 {
+    padding: 30px 15px;
+  }
+
+  #get {
+    min-width: 124px;
+    padding: 11px 18px;
+    font-size: 14px;
+  }
+}
