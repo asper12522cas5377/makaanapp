@@ -197,7 +197,7 @@ const PropertyList=()=>{
       </div>
 
 
-{/* contant with our contant property */}
+{/* contant property */}
 
 <div class="container my-5">
   <div class="contact-box">
