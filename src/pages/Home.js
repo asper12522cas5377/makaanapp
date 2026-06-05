@@ -279,20 +279,18 @@ const Home = () => {
     </div>
 
 
-{/* contant with our contant property */}
+{/* contant property */}
 
 <div class="container my-5">
   <div class="contact-box">
     <div class="row align-items-center">
-      
-      {/* Image */}
+    
       <div class="col-md-6 mb-4 mb-md-0">
         <img src={c1}
              class="img-fluid"
              alt="Agent"></img>
       </div>
 
-      {/* Content */}
       <div class="col-md-6">
         <h1 class="contact-title">
           Contact With Our <br></br> Certified Agent
@@ -400,7 +398,7 @@ const Home = () => {
 </div>
 
 
-{/* our clints say! */}
+{/* our clints say */}
 <div className='container-our'>
 <h1>Our clients Say!</h1>
 <p>Eirmod sed ipsum dolor sit rebum labore magna erat. Tempor ut dolore lorem kasd<br></br>
