@@ -61,7 +61,7 @@ const Testimonial=()=>{
   </div>
 </div>
 
-{/* our clints say! */}
+{/* our clints say */}
 <div className='container-our'>
 <h1>Our clients Say!</h1>
 <p>Eirmod sed ipsum dolor sit rebum labore magna erat. Tempor ut dolore lorem kasd<br></br>
