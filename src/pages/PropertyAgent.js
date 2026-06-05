@@ -143,20 +143,18 @@ const PropertyAgent=()=>{
   </div>
 </div>
 
-{/* contant with our contant property */}
+{/* contant property */}
 
 <div class="container my-5">
   <div class="contact-box">
     <div class="row align-items-center">
       
-      {/* Image */}
       <div class="col-md-6 mb-4 mb-md-0">
         <img src={c1}
              class="img-fluid"
              alt="Agent"></img>
       </div>
 
-      {/* Content */}
       <div class="col-md-6">
         <h1 class="contact-title">
           Contact With Our <br></br> Certified Agent
